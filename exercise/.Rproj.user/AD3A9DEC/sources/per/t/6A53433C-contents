@@ -1,0 +1,4 @@
+setwd("~/Documents/MEDS/classes/spring/eds-213-data-management/eds-213-project-container/exercise")
+library(renv)
+renv::activate()
+renv::init()
